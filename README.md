@@ -16,3 +16,4 @@ git push
 Vaata ka minu konspekti WP-portfoolios:
 <a href="https://annaoleks24.thkit.ee/wp" target="_blank">WP link</a>
 This site was built using [GitHub Pages](https://pages.github.com/).
+![image](https://github.com/user-attachments/assets/b76e57fa-23c4-4f37-ae53-7681f89c38a6)
